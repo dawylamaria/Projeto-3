@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b405aa82-0788-4020-a79b-8dae78640ac7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Biblioteca2/Biblioteca2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Biblioteca2/Interface/IAdicionarAoAcervo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Biblioteca2/out/production/Biblioteca2/br/edu/fescfafic/biblioteca/Biblioteca2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BibliotecaLiskov-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BibliotecaLiskov-main/br/edu/fescfafic/biblioteca/Biblioteca2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BibliotecaLiskov-main/br/edu/fescfafic/biblioteca/out/production/Biblioteca2/br/edu/fescfafic/biblioteca/Biblioteca2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EstruturaSequencial/EstruturaSequencial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PadraoDAO/src/br/edu/catolica/PadraoDAO/Model/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PadraoDAO/src/br/edu/catolica/PadraoDAO/Model/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PadraoDAO/src/br/edu/catolica/PadraoDAO/Model/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PadraoDAO/src/br/edu/catolica/PadraoDAO/Model/Venda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID/SOLID.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID/src/br/edu/fescfafic/responsabilidade/unica/Model/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID/src/br/edu/fescfafic/responsabilidade/unica/Model/ClienteFisico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID/src/br/edu/fescfafic/responsabilidade/unica/Model/ClienteJuridico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID/src/br/edu/fescfafic/responsabilidade/unica/Model/Contato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID/src/br/edu/fescfafic/responsabilidade/unica/Model/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID/src/br/edu/fescfafic/responsabilidade/unica/Model/IndicadorInscricaoEstadual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TratamentoDeErro1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TratamentoDeErro1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TratamentoDeErro1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TratamentoDeErro1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TratamentoDeErro1/TratamentoDeErro1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TratamentoDeErro2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TratamentoDeErro2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TratamentoDeErro2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TratamentoDeErro2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TratamentoDeErro2/TratamentoDeErro2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TratamentoDeErro2/out/production/TratamentoDeErro2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TratamentoDeErro3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TratamentoDeErro3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TratamentoDeErro3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TratamentoDeErro3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TratamentoDeErro3/TratamentoDeErro3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TratamentoDeErro3/out/production/TratamentoDeErro3/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TratamentoDeErro4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TratamentoDeErro4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TratamentoDeErro4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TratamentoDeErro4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TratamentoDeErro4/TratamentoDeErro4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abertoFechado/abertoFechado.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abertoFechado/src/br/edu/fescfafic/abertoFechado/Model/Consultor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abertoFechado/src/br/edu/fescfafic/abertoFechado/Model/Empregado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abertoFechado/src/br/edu/fescfafic/abertoFechado/Model/FolhaDePagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abertoFechado/src/br/edu/fescfafic/abertoFechado/Model/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abertoFechado/src/br/edu/fescfafic/abertoFechado/Model/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicioPoo3/exercicioPOO3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicioSOLID/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicioSOLID/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicioSOLID/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicioSOLID/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicioSOLID/exercicioSOLID.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicioSOLID/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inversaoDependencia/inversaoDependencia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inversaoDependencia/src/br/edu/fescfafic/inversaoDependencia/Interface/Instrumento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inversaoDependencia/src/br/edu/fescfafic/inversaoDependencia/Model/Bateria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inversaoDependencia/src/br/edu/fescfafic/inversaoDependencia/Model/Flauta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inversaoDependencia/src/br/edu/fescfafic/inversaoDependencia/Model/Musico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inversaoDependencia/src/br/edu/fescfafic/inversaoDependencia/Model/Tambor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../novoProjeto/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../novoProjeto/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../novoProjeto/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../novoProjeto/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../novoProjeto/novoProjeto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../novoProjeto/out/production/novoProjeto/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../novoProjeto/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../praticandoExercicios/praticandoExercicios.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../praticandoExercicios2/praticandoExercicios2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../praticandoExercicios2/src/br/edu/fescfafic/contabancaria/Model/ContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../praticandoExercicios2/src/br/edu/fescfafic/contabancaria/Model/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../praticandoExercicios2/src/br/edu/fescfafic/contabancaria/Model/ContaPoupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../praticandoExercicios3/praticandoExercicios3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../praticandoExercicios3/src/br/edu/fescfafic/baralho/Model/Jogo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../praticandoExercicios4/praticandoExercicios4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../praticandoExercicios4/src/br/edu/fescfafic/carro/Model/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../praticandoExercicios5/praticandoExercicios5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../praticandoExercicios5/src/br/edu/fescfafic/venda/Model/VendaIngressos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../praticandoPOO/praticandoPOO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../praticandoPOO2/codigos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto2/projeto2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto2/src/br/edu/fescfafic/projeto2/Model/Atendente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto2/src/br/edu/fescfafic/projeto2/Model/Bibliotecario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetoBiblioteca/projetoBiblioteca.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../refazendoProjeto/refazendoProjeto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../segregacaoDeInterfaces/segregacaoDeInterfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../segregacaoDeInterfaces/src/br/edu/fescfafic/segregacaoInterfaces/Interface/PoderAgua.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../segregacaoDeInterfaces/src/br/edu/fescfafic/segregacaoInterfaces/Interface/PoderFogo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../segregacaoDeInterfaces/src/br/edu/fescfafic/segregacaoInterfaces/Interface/PoderTerra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../segregacaoDeInterfaces/src/br/edu/fescfafic/segregacaoInterfaces/Model/FadaAgua.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../segregacaoDeInterfaces/src/br/edu/fescfafic/segregacaoInterfaces/Model/FadaFogo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../segregacaoDeInterfaces/src/br/edu/fescfafic/segregacaoInterfaces/Model/FadaTerra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../substituicaoDeLiscov/src/br/edu/fescfafic/substituicaoLiscov/Model/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../substituicaoDeLiscov/src/br/edu/fescfafic/substituicaoLiscov/Model/AnimalSelvagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../substituicaoDeLiscov/src/br/edu/fescfafic/substituicaoLiscov/Model/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../substituicaoDeLiscov/src/br/edu/fescfafic/substituicaoLiscov/Model/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../substituicaoDeLiscov/substituicaoDeLiscov.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OqvrqXOeXf9fhxLvgGmHkxI2kw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/dawyl/IdeaProjects/BibliotecaLiskov-main",
+    "settings.editor.selected.configurable": "preferences.general"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.edu.fescfafic.biblioteca.Main.Main" />
+      <module name="BibliotecaLiskov-main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.edu.fescfafic.biblioteca.Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b405aa82-0788-4020-a79b-8dae78640ac7" name="Changes" comment="" />
+      <created>1682301127974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682301127974</updated>
+    </task>
+    <servers />
+  </component>
+</project>
